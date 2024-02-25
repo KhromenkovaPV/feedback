@@ -1,0 +1,14 @@
+.spinner-overlay {
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+    background: rgba(242, 242, 242, 0.5);
+}
+
+.spinner-border {
+    top: 50%;
+    left: 50%;
+    position: relative;
+}

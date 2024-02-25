@@ -185,4 +185,6 @@ return [
         // 'Example' => App\Facades\Example::class,
     ])->toArray(),
 
+    'storage_type' => env('STORAGE_TYPE', 'file'),
+
 ];
